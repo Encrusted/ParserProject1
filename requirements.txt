@@ -1,0 +1,11 @@
+#асинхронность и работа с бд
+asyncio
+sqlalchemy>=2.0.0
+asyncpg
+
+#парсинг и обход защит
+beautifulsoup4
+playwright
+
+#инструменты
+pydantic-settings
